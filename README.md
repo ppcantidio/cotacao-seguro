@@ -1,4 +1,4 @@
-# Nome do Projeto
+# cotacao-seguro
 
 Este é um projeto de cotação de seguro. Ele permite que os usuários obtenham cotações de seguro com base em vários parâmetros, como idade, gênero biológico, valor da importância segurada e datas de início e fim da vigência.
 
@@ -6,8 +6,8 @@ Este é um projeto de cotação de seguro. Ele permite que os usuários obtenham
 
 Para instalar e executar este projeto, você precisa seguir estas etapas:
 
-1. Clone o repositório: `git clone <url do repositório>`
-2. Navegue até o diretório do projeto: `cd <nome do diretório do projeto>`
+1. Clone o repositório: `git clone https://github.com/ppcantidio/cotacao-seguro`
+2. Navegue até o diretório do projeto: `cd cotacao-seguro`
 3. Instale as dependências: `pip install -r requirements.txt`
 4. Execute o projeto: `python main.py`
 
